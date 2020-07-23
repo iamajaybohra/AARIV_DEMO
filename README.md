@@ -1,4 +1,4 @@
-This is the copy of https://github.com/iamajaybohra/AARIV repo. Both are exactly same and this the hosted version of that repo.
+This is the copy of https://github.com/iamajaybohra/AARIV repo. Both are exactly same and this is the hosted version of that repo.
 To see the original repo(the one shared with Microsoft Engage Team), visit the above link mentioned.
 
 # PathFinder
